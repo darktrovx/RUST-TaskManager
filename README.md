@@ -1,6 +1,6 @@
 # Task Manager API
 
-A simple web API built with Rust and the `actix-web` framework to manage tasks. The API supports CRUD operations (Create, Read, Update, Delete) for task management, making it a great starting point for learning Rust-based web development.
+A simple web API built with Rust and the `actix-web` framework to manage tasks. The API supports CRUD operations (Create, Read, Update, Delete) for task management.
 
 ---
 
